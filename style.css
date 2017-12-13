@@ -1,0 +1,131 @@
+@charset "UTF-8";
+body{background: url(images/sm_brochure-background_150.jpg);}
+
+.nav 
+ul{
+			list-style-type: none;
+			margin: 0px;
+			padding: 0px;
+			overflow: hidden;
+		}
+		a:link,a:visited{
+			display:inline-grid;
+			font-weight:100;
+			color:#FFFFFF;
+			background-color:#98bf21;
+			width: 192px;
+			text-align: center;
+			padding: 4px;
+			text-transform:uppercase;
+			text-decoration:none;
+			
+		}
+		li{float:left;}
+		a:hover,a:active{
+			background-color:aqua;}
+
+header{float: left;
+		border:thin;
+		border-color:rgba(1,176,245,1.00);
+		}
+
+
+h1{text-align: center;
+	font-style: italic;
+	font-size: 60px;
+	color:brown;
+	padding-top: 10px;
+	}
+
+
+
+
+.hero-box{background:url(images/rsz_pic1.jpg);
+		background-repeat:no-repeat;
+		background-size: cover;
+		position: relative;
+		height: 500px;
+	border:solid;
+	color: rgba(19,97,237,1.00);
+}
+
+
+
+h4{text-align:left;
+	font-style: italic;
+	font-size: 25px;
+	padding-top: 0.4em;
+	padding-bottom: 0.00001em;
+	margin-top:0.5em;
+	margin-bottom: 0.1em;
+	color:hsla(236,97%,49%,1.00);
+}
+h2{
+	text-align:left;
+	font-size:30px;
+	font-style:italic;
+margin-top: 0em;
+margin-bottom: 1px;
+color: blue;
+background-color: antiquewhite;
+}
+
+dir{text-align: justify;
+	font-size: 20px;
+	color: black;}
+
+.xyz{padding-top: 23em;}
+
+
+
+.pic11{position: relative;}
+
+
+p{text-align: left;
+	font-size: 20px;
+	color:black;}
+
+
+.para{text-align: left;
+font-size: 20px;
+color: black;
+
+}
+
+.qwe{text-align: center;
+	padding-top: 8em;}
+
+address{font-size: 20px;
+		font-style: oblique;
+	text-align: center;
+}
+footer{text-align: center;
+		font-size: 30px;
+	color: brown;
+	
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
